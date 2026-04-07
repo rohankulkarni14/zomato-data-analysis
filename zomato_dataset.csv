@@ -1,0 +1,201 @@
+name,location,cuisines,rate,approx_cost(for two people)
+Cafe Delight 0,Thane,Multi Cuisine,4.4/5,788
+Cafe Delight 1,Thane,Salads,4.7/5,1536
+Pasta Place 2,Navi Mumbai,BBQ,4.6/5,1403
+Burger Point 3,Navi Mumbai,Italian,3.4/5,1396
+Golden Dragon 4,Navi Mumbai,BBQ,3.6/5,1274
+Spice Route 5,Mumbai,Multi Cuisine,3.6/5,446
+Chaat Bazaar 6,Navi Mumbai,Italian,3.2/5,349
+Bombay Bites 7,Navi Mumbai,Indian,3.5/5,1283
+Royal Dine 8,Mumbai,Salads,3.4/5,1084
+Food Junction 9,Mumbai,Chinese,4.6/5,1294
+Sushi World 10,Navi Mumbai,Indian,4.8/5,1670
+Urban Tadka 11,Navi Mumbai,Desserts,3.1/5,1789
+Spice Villa 12,Navi Mumbai,Japanese,4.5/5,831
+Cafe Delight 13,Thane,BBQ,4.3/5,1892
+Grill Master 14,Navi Mumbai,BBQ,4.8/5,364
+Dragon Bowl 15,Navi Mumbai,Street Food,4.6/5,1963
+Healthy Bowl 16,Navi Mumbai,BBQ,3.3/5,1414
+Golden Dragon 17,Mumbai,Italian,4.7/5,1370
+Dessert Hub 18,Mumbai,Japanese,4.3/5,1812
+Seafood Shack 19,Thane,Salads,4.1/5,807
+Spice Route 20,Mumbai,Japanese,4.5/5,358
+Spice Route 21,Thane,Salads,4.1/5,885
+Urban Tadka 22,Thane,Chinese,4.0/5,1102
+Seafood Shack 23,Thane,Indian,3.4/5,1345
+Dessert Hub 24,Thane,North Indian,3.8/5,971
+Sushi World 25,Mumbai,Fast Food,4.5/5,434
+Burger Point 26,Mumbai,Chinese,4.6/5,463
+Seafood Shack 27,Navi Mumbai,Fast Food,4.6/5,1750
+Sushi World 28,Thane,Seafood,3.6/5,1989
+Food Junction 29,Navi Mumbai,Italian,3.6/5,1488
+Grill Master 30,Mumbai,Salads,4.4/5,1387
+Cafe Delight 31,Thane,Italian,3.5/5,743
+Grill Master 32,Navi Mumbai,North Indian,4.3/5,1147
+Quick Bites 33,Thane,Fast Food,3.6/5,504
+Bombay Bites 34,Thane,Seafood,4.4/5,1192
+Pizza Hub 35,Mumbai,Japanese,4.7/5,685
+Curry House 36,Navi Mumbai,Street Food,4.3/5,1563
+Urban Tadka 37,Navi Mumbai,Italian,3.7/5,870
+Dessert Hub 38,Thane,Chinese,4.7/5,1364
+Spice Villa 39,Mumbai,Salads,3.5/5,965
+Dragon Bowl 40,Navi Mumbai,Salads,3.8/5,907
+Royal Dine 41,Thane,Fast Food,3.1/5,571
+Food Junction 42,Mumbai,Chinese,4.2/5,362
+Grill Master 43,Navi Mumbai,Seafood,4.4/5,1284
+Seafood Shack 44,Navi Mumbai,Chinese,4.6/5,1428
+Healthy Bowl 45,Mumbai,Salads,3.1/5,1123
+Pizza Hub 46,Thane,Japanese,3.6/5,1153
+Chaat Bazaar 47,Thane,Chinese,4.5/5,1616
+Quick Bites 48,Navi Mumbai,Salads,4.6/5,1268
+Pizza Hub 49,Mumbai,Italian,3.2/5,1606
+Food Junction 50,Mumbai,Street Food,3.8/5,403
+Food Junction 51,Mumbai,Indian,4.6/5,1980
+Food Junction 52,Navi Mumbai,Chinese,4.1/5,741
+Golden Dragon 53,Navi Mumbai,Chinese,4.2/5,718
+Pizza Hub 54,Navi Mumbai,Seafood,3.7/5,1947
+Spice Villa 55,Thane,Fast Food,4.8/5,666
+Pizza Hub 56,Thane,Chinese,4.5/5,1350
+Burger Point 57,Navi Mumbai,Fast Food,3.5/5,1533
+Bombay Bites 58,Thane,Japanese,4.3/5,864
+Grill Master 59,Navi Mumbai,Japanese,3.2/5,322
+Dragon Bowl 60,Thane,Street Food,4.8/5,1453
+Sushi World 61,Mumbai,Desserts,4.1/5,709
+Healthy Bowl 62,Thane,Indian,4.8/5,306
+Spice Villa 63,Mumbai,Salads,3.2/5,1175
+Golden Dragon 64,Thane,Japanese,4.2/5,1490
+Healthy Bowl 65,Thane,Street Food,3.3/5,411
+Dessert Hub 66,Navi Mumbai,Desserts,4.5/5,1825
+Spice Route 67,Navi Mumbai,North Indian,4.2/5,1859
+Pasta Place 68,Thane,Chinese,3.2/5,1907
+Dragon Bowl 69,Thane,Multi Cuisine,4.3/5,1004
+Seafood Shack 70,Mumbai,Fast Food,3.3/5,1725
+Golden Dragon 71,Thane,Japanese,4.7/5,661
+Spice Route 72,Thane,Desserts,4.5/5,1921
+Dragon Bowl 73,Navi Mumbai,Salads,3.4/5,1197
+Curry House 74,Mumbai,Desserts,4.5/5,1680
+Urban Tadka 75,Mumbai,North Indian,3.0/5,1014
+Cafe Delight 76,Navi Mumbai,Street Food,4.2/5,1940
+Quick Bites 77,Navi Mumbai,Multi Cuisine,3.6/5,1915
+Chaat Bazaar 78,Thane,BBQ,3.2/5,338
+Pizza Hub 79,Mumbai,North Indian,4.6/5,1506
+Spice Route 80,Navi Mumbai,BBQ,3.1/5,1990
+Spice Villa 81,Mumbai,Chinese,3.8/5,941
+Cafe Delight 82,Thane,Desserts,3.9/5,694
+Pizza Hub 83,Navi Mumbai,Street Food,3.0/5,1351
+Golden Dragon 84,Navi Mumbai,Indian,3.8/5,777
+Burger Point 85,Mumbai,Seafood,4.3/5,1169
+Healthy Bowl 86,Mumbai,Desserts,4.7/5,867
+Burger Point 87,Thane,Desserts,4.1/5,1732
+Sushi World 88,Navi Mumbai,Salads,3.8/5,1123
+Cafe Delight 89,Thane,Salads,4.2/5,1969
+Spice Villa 90,Mumbai,Chinese,4.1/5,1742
+Spice Villa 91,Mumbai,Street Food,4.4/5,792
+Sushi World 92,Navi Mumbai,Street Food,3.6/5,1890
+Bombay Bites 93,Navi Mumbai,North Indian,3.6/5,1147
+Golden Dragon 94,Navi Mumbai,North Indian,4.0/5,318
+Golden Dragon 95,Mumbai,Japanese,4.2/5,1382
+Cafe Delight 96,Navi Mumbai,Street Food,3.9/5,865
+Chaat Bazaar 97,Navi Mumbai,North Indian,3.1/5,1956
+Food Junction 98,Thane,Seafood,3.2/5,1638
+Burger Point 99,Thane,Chinese,3.1/5,1718
+Food Junction 100,Thane,Japanese,4.4/5,1003
+Pasta Place 101,Navi Mumbai,Japanese,4.5/5,874
+Curry House 102,Navi Mumbai,Japanese,4.7/5,1769
+Spice Route 103,Navi Mumbai,Street Food,3.7/5,894
+Cafe Delight 104,Navi Mumbai,Street Food,4.7/5,1384
+Golden Dragon 105,Mumbai,Salads,4.5/5,1585
+Cafe Delight 106,Mumbai,Japanese,3.9/5,1660
+Burger Point 107,Navi Mumbai,Multi Cuisine,3.1/5,1301
+Spice Villa 108,Navi Mumbai,Seafood,3.6/5,1409
+Spice Route 109,Mumbai,Seafood,3.4/5,828
+Curry House 110,Mumbai,Fast Food,4.2/5,1604
+Healthy Bowl 111,Mumbai,Seafood,4.4/5,1748
+Bombay Bites 112,Navi Mumbai,Indian,3.5/5,1275
+Dragon Bowl 113,Mumbai,Japanese,4.4/5,1599
+Pizza Hub 114,Mumbai,Japanese,4.5/5,1550
+Food Junction 115,Mumbai,Italian,3.8/5,1349
+Golden Dragon 116,Navi Mumbai,Italian,3.2/5,1469
+Curry House 117,Mumbai,North Indian,3.6/5,1007
+Curry House 118,Mumbai,Fast Food,4.6/5,1048
+Dragon Bowl 119,Mumbai,Street Food,3.5/5,1404
+Chaat Bazaar 120,Mumbai,Street Food,4.4/5,1187
+Urban Tadka 121,Thane,Desserts,3.8/5,426
+Sushi World 122,Mumbai,Chinese,3.2/5,1791
+Grill Master 123,Mumbai,Indian,3.3/5,852
+Dessert Hub 124,Thane,BBQ,4.2/5,897
+Pasta Place 125,Thane,Desserts,3.8/5,1278
+Healthy Bowl 126,Mumbai,Indian,3.5/5,1302
+Spice Route 127,Navi Mumbai,North Indian,4.5/5,1765
+Healthy Bowl 128,Mumbai,Italian,4.0/5,1410
+Burger Point 129,Mumbai,Seafood,3.2/5,944
+Pizza Hub 130,Thane,Seafood,4.0/5,1881
+Dragon Bowl 131,Thane,Multi Cuisine,3.7/5,1629
+Golden Dragon 132,Thane,Fast Food,3.7/5,1063
+Healthy Bowl 133,Navi Mumbai,Salads,4.5/5,967
+Spice Route 134,Mumbai,Multi Cuisine,4.8/5,1511
+Spice Villa 135,Navi Mumbai,Multi Cuisine,3.5/5,990
+Burger Point 136,Mumbai,Street Food,4.7/5,1803
+Golden Dragon 137,Navi Mumbai,Indian,3.9/5,1907
+Royal Dine 138,Mumbai,Street Food,4.3/5,1142
+Royal Dine 139,Navi Mumbai,BBQ,4.1/5,793
+Quick Bites 140,Navi Mumbai,Fast Food,3.8/5,1070
+Chaat Bazaar 141,Thane,Multi Cuisine,3.8/5,708
+Pizza Hub 142,Navi Mumbai,Fast Food,4.4/5,581
+Golden Dragon 143,Thane,Indian,4.7/5,384
+Grill Master 144,Navi Mumbai,Japanese,3.6/5,1641
+Royal Dine 145,Navi Mumbai,Street Food,4.5/5,1186
+Food Junction 146,Navi Mumbai,Desserts,3.7/5,1934
+Spice Villa 147,Mumbai,North Indian,4.7/5,391
+Sushi World 148,Navi Mumbai,Street Food,4.3/5,965
+Burger Point 149,Mumbai,Japanese,3.8/5,1492
+Food Junction 150,Thane,Desserts,3.8/5,1255
+Spice Villa 151,Mumbai,Salads,3.1/5,721
+Pasta Place 152,Thane,Indian,3.3/5,554
+Chaat Bazaar 153,Mumbai,Fast Food,3.4/5,1654
+Food Junction 154,Mumbai,Japanese,3.4/5,1685
+Cafe Delight 155,Thane,Fast Food,4.2/5,1958
+Healthy Bowl 156,Thane,Indian,3.6/5,1278
+Spice Villa 157,Mumbai,Salads,4.4/5,586
+Urban Tadka 158,Mumbai,Chinese,3.8/5,477
+Pasta Place 159,Navi Mumbai,Multi Cuisine,4.4/5,1791
+Healthy Bowl 160,Navi Mumbai,Seafood,3.5/5,604
+Curry House 161,Mumbai,Multi Cuisine,4.0/5,315
+Pizza Hub 162,Mumbai,Salads,4.2/5,562
+Royal Dine 163,Thane,Multi Cuisine,3.9/5,1858
+Cafe Delight 164,Thane,Seafood,4.1/5,1102
+Chaat Bazaar 165,Mumbai,Seafood,4.8/5,772
+Cafe Delight 166,Navi Mumbai,Seafood,3.9/5,953
+Pasta Place 167,Navi Mumbai,Multi Cuisine,3.3/5,545
+Dragon Bowl 168,Mumbai,Japanese,3.8/5,1290
+Spice Route 169,Thane,Italian,3.9/5,984
+Spice Route 170,Thane,Salads,3.8/5,1169
+Quick Bites 171,Navi Mumbai,Street Food,3.1/5,817
+Pizza Hub 172,Navi Mumbai,Multi Cuisine,3.8/5,592
+Healthy Bowl 173,Thane,Seafood,4.7/5,1480
+Grill Master 174,Thane,Indian,4.1/5,1657
+Royal Dine 175,Navi Mumbai,Chinese,3.0/5,792
+Chaat Bazaar 176,Thane,BBQ,4.3/5,1103
+Food Junction 177,Navi Mumbai,Indian,4.4/5,1271
+Curry House 178,Navi Mumbai,Japanese,3.2/5,1028
+Cafe Delight 179,Thane,Seafood,4.1/5,343
+Grill Master 180,Navi Mumbai,Multi Cuisine,4.3/5,603
+Dessert Hub 181,Thane,Chinese,4.7/5,1333
+Urban Tadka 182,Thane,Chinese,4.1/5,758
+Burger Point 183,Thane,Indian,3.6/5,560
+Urban Tadka 184,Mumbai,Fast Food,4.1/5,1847
+Curry House 185,Navi Mumbai,Chinese,4.7/5,455
+Bombay Bites 186,Mumbai,Japanese,4.7/5,1303
+Golden Dragon 187,Mumbai,Italian,4.5/5,473
+Dragon Bowl 188,Mumbai,Chinese,4.0/5,1627
+Curry House 189,Mumbai,Street Food,4.0/5,1184
+Quick Bites 190,Mumbai,Salads,4.8/5,704
+Royal Dine 191,Thane,Seafood,4.4/5,1902
+Bombay Bites 192,Thane,Salads,3.3/5,682
+Quick Bites 193,Mumbai,BBQ,3.8/5,1922
+Dragon Bowl 194,Navi Mumbai,Italian,3.7/5,408
+Cafe Delight 195,Thane,Fast Food,3.5/5,1484
+Urban Tadka 196,Thane,Street Food,3.6/5,1326
+Pasta Place 197,Thane,Italian,4.1/5,1878
+Quick Bites 198,Mumbai,Street Food,3.2/5,1859
+Dragon Bowl 199,Mumbai,Street Food,4.8/5,1389
